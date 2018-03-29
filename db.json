@@ -4,7 +4,7 @@
          "type":"text",
          "label":"First Name",
          "id":"user-first-name",
-         "icon":"fa-user",
+         "icon":"faa-user",
          "options":[
 
          ]
